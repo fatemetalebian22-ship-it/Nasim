@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>فاطمه | Nasim</title>
+<style>
+body{margin:0;font-family:Tahoma;background:linear-gradient(135deg,#667eea,#764ba2);height:100vh;display:flex;justify-content:center;align-items:center;color:white}
+.card{background:rgba(255,255,255,0.2);backdrop-filter:blur(10px);padding:40px;border-radius:20px;text-align:center}
+.btn{display:inline-block;margin-top:20px;padding:10px 25px;background:white;color:#764ba2;border-radius:30px;text-decoration:none;font-weight:bold}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>سلام، من فاطمه هستم 👋</h1>
+<p>به سایت نسیم خوش اومدید</p>
+<a class="btn" href="#">ورود</a>
+</div>
+</body>
+</html>
